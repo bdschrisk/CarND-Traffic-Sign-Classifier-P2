@@ -1,0 +1,4 @@
+model_checkpoint_path: "ConvNet-2"
+all_model_checkpoint_paths: "ConvNet-0"
+all_model_checkpoint_paths: "ConvNet-1"
+all_model_checkpoint_paths: "ConvNet-2"
